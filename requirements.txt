@@ -1,0 +1,5 @@
+orangebox
+matplotlib
+numpy
+PyQt5
+mplcursors
